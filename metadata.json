@@ -1,0 +1,8 @@
+{
+  "name": "KultureXR",
+  "description": "Explore Kwara State’s cultural artifacts using Augmented Reality and AI-generated storytelling in multiple local languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
